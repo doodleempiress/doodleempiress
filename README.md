@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🌐 **Website**: [doodle empires](https://doodleempires.online/)
-[retro games online](https://retrogamez.online/)
+🌐 **Website**: 
 [ai music generator](https://aimusicgenerator.dev/)
 📂 **Portfolio**: [View My Projects](https://bento.me/trumann)
+[ImageFx - Ai Imgae generator](https://imgfx.dev/)
 [notion page](https://pickled-puck-34e.notion.site/new-site-by-me-15b1095bf8bd80449b80c2a6db0e9893)
 
 
